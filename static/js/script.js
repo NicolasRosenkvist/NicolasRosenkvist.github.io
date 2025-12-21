@@ -126,7 +126,7 @@ function loadWeek() {
   fetch("/static/json/reasons.json")
     .then(res => res.json())
     .then(data => {
-      const START_DATE = "2025-12-21";
+      const START_DATE = "2025-12-24";
       currentWeek = getCurrentWeek(START_DATE);
 
       const weeklyGate = document.getElementById("weeklyGate");
@@ -213,3 +213,4 @@ function loadMomReason(currentWeek) {
 ----------------------------- */
 
 window.addEventListener("DOMContentLoaded", loadWeek);
+
