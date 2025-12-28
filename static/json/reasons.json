@@ -9,10 +9,10 @@
     },
     {
       "week": 2,
-      "reason": "",
-      "memory": "",
-      "passwordHint": "",
-      "password": ""
+      "reason": "Min barndom var trygg och full av kärlek tack vare dig",
+      "memory": "Hur jag inte kan släppa dig efter en kram",
+      "passwordHint": "På vilken ö bodde vi på Santuari de Cura",
+      "password": "mallorca"
     },
     {
       "week": 3,
@@ -366,3 +366,4 @@
     }
   ]
 }
+
