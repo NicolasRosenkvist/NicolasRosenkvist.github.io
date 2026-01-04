@@ -16,10 +16,10 @@
     },
     {
       "week": 3,
-      "reason": "",
-      "memory": "",
-      "passwordHint": "",
-      "password": ""
+      "reason": "Du är alltid först att ge ut en komplimang",
+      "memory": "Hur hårt du har jobbat för den underbara relation vi har",
+      "passwordHint": "Vad heter ditt favorithotell i asien",
+      "password": "shantaa"
     },
     {
       "week": 4,
@@ -366,4 +366,5 @@
     }
   ]
 }
+
 
