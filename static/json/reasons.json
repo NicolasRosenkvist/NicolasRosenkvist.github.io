@@ -30,10 +30,10 @@
     },
     {
       "week": 5,
-      "reason": "",
-      "memory": "",
-      "passwordHint": "",
-      "password": ""
+      "reason": "Du älskar mig precis som jag är",
+      "memory": "Hur enkelt det är att vara tillsammans",
+      "passwordHint": "Vad heter den bästa personen i förnamn",
+      "password": "annika"
     },
     {
       "week": 6,
@@ -366,6 +366,7 @@
     }
   ]
 }
+
 
 
 
