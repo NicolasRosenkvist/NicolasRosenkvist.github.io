@@ -10,33 +10,25 @@
 
 <div class="center">
 
-  <!-- Weekly memory gate -->
-  <div id="weeklyGate" class="card">
-    <h2 id="weekTitle"></h2>
-    <h3>🔐 Veckans minne</h3>
-    <p id="weeklyHint"></p>
+  <h1>52 anledningar att du är bäst</h1>
 
-    <input type="text" id="weeklyPasswordInput" placeholder="Ditt svar…"/>
-    <button onclick="tryWeeklyPassword()">Prova</button>
-    <button class="secondary" onclick="revealAnyway()">Visa ändå 💕</button>
-    <p id="weeklyError"></p>
-  </div>
-
-  <!-- Reason card (hidden until unlock) -->
-  <div class="card reason" id="reasonCard" style="display:none;">
+  <div class="card" id="mainCard">
+    <h2 class="week-label">
+      Vecka <span id="weekNumber"></span>
+    </h2>
     <h3 id="reason"></h3>
-    <h3 id="memory"></h3>
+    <p id="memory"></p>
 
-    <div class="countdown">
-      ⏳ <span id="countdown">—</span>
+    <div class="navigation">
+      <button id="prevBtn">← Föregående</button>
+      <button id="nextBtn">Nästa →</button>
     </div>
   </div>
 
-  <!-- Mom's own reason (hidden until unlock) -->
-  <div class="card add-reason" id="momCard" style="display:none;">
+  <div class="card add-reason">
     <h3>Lägg till din egen anledning 💌</h3>
     <textarea id="momReason" placeholder="Din anledning denna veckan..."></textarea>
-    <button onclick="saveMomReason(currentWeek)">Spara (en gång per vecka)</button>
+    <button id="saveBtn">Spara</button>
     <p id="savedMsg"></p>
   </div>
 
