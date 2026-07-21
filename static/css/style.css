@@ -133,3 +133,29 @@ textarea {
 .week-label span {
   font-weight: 500;
 }
+
+@media print {
+  body {
+    background: white !important;
+    padding: 0;
+  }
+
+  .add-reason {
+    display: none !important;
+  }
+
+  .navigation {
+    display: none !important;
+  }
+
+  #mainCard {
+    box-shadow: none;
+    margin-bottom: 0;
+    page-break-inside: avoid;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+  }
+}
+
