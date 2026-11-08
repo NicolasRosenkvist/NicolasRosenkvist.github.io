@@ -50,9 +50,17 @@
     
     { "week": 41, "reason": "Du hittar alltid lösningen när ingen ens sett problemet", "memory": "Jag vet att du är uppe sent på kvällarna och tänker på att frosta min frys" }, 
     { "week": 42, "reason": "Du formar naturligt fem stillsamma minuter till valfritt antal kaotiska händelserika minuter", "memory": "Från en hektisk mamma kom en stillsam son som älskar ditt kaos, då känner jag mig som hemma" }, 
-    { "week": 43, "reason": "", "memory": "" }, 
-    { "week": 44, "reason": "", "memory": "" }, 
-    { "week": 45, "reason": "", "memory": "" }, 
+    { "week": 43, "reason": "Du har lärt mig att det aldrig blir för sent att börja från nytt", "memory": "Du har aldrig låtit dig eller mig fastna i vägar som inte varit sanna till oss" }, 
+    { "week": 44, "reason": "Du har visat hur vackert det är att visa riktiga känslor till någon man älskar", "memory": "Jag har aldrig behövt gömma någon känsla för dig" }, 
+    { "week": 45, "reason": "Du ger mig så mycket mer än en normal mamma behöver", "memory": "Du är min förebild, trygghet, supporter och bästa vän" }, 
     
-    { "week": 46, "reason": "", "memory": "" }, { "week": 47, "reason": "", "memory": "" }, { "week": 48, "reason": "", "memory": "" }, { "week": 49, "reason": "", "memory": "" }, { "week": 50, "reason": "", "memory": "" }, { "week": 51, "reason": "", "memory": "" }, { "week": 52, "reason": "", "memory": "" } ] }
+    { "week": 46, "reason": "Du är en av de första personerna jag tänker på för att bli gladare", "memory": "Jag hoppas du vet hur många gånger jag faktiskt tänker på dig och får ett leende" }, 
+    { "week": 47, "reason": "Du behöver aldrig vara stark med mig", "memory": "Jag vet att du känner att du kan luta dig mot mig precis som jag alltid fått luta mig mot dig" }, 
+    { "week": 48, "reason": "Du har aldrig förstått lagom och jag vill aldrig att du ska lära dig", "memory": "Jag vill aldrig att mitt liv ska bli lugnt med dig då hade jag aldrig haft en sån fantastisk mamma" }, 
+    { "week": 49, "reason": "", "memory": "" }, 
+    { "week": 50, "reason": "", "memory": "" }, 
+    
+    { "week": 51, "reason": "", "memory": "" }, 
+    
+    { "week": 52, "reason": "", "memory": "" } ] }
 
